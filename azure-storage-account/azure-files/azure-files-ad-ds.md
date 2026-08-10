@@ -1,4 +1,4 @@
-# Azure Files Authentication with Active Directory Domain Services (AD DS)
+# Azure Files - Active Directory Domain Services (AD DS)
 
 ## Overview
 
